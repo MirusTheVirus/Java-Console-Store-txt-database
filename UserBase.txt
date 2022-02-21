@@ -1,0 +1,6 @@
+0;mirus;1234;Miroljub;Djokic;2000;true
+1;aca;1234;Aca;Lukas;1984;false
+2;aca;1234;Aca;Lakasss;1969;false
+3;mira;1111;Mira;Masa;1969;false
+5;faf;123;faf;afa;12312;false
+6;Aca;123;ACA;MAXKIM;1;true
